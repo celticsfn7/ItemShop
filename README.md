@@ -1,12 +1,12 @@
-CID_497_Athena_Commando_F_WildWest, 1200
-CID_498_Athena_Commando_M_WildWest, 1200
-Pickaxe_ID_114_BadassCowboyCowSkull, 800
+CID_703_Athena_Commando_M_Cyclone, 1500
+CID_598_Athena_Commando_M_Mastermind, 1500
+Pickaxe_ID_179_StarWand, 800
 na
 na
 na
-Pickaxe_ID_074_SharpDresser, 800
-Wrap_045_Angel, 500
-EID_TPose, 200
-EID_Twist, 500
-CID_216_Athena_Commando_F_Medic, 1500
-CID_704_Athena_Commando_F_LollipopTrickster, 1500
+Pickaxe_ID_086_Biker, 800
+Wrap_083_PlasticArmyGrey, 500
+EID_Donut1, 500
+EID_PumpkinDance, 500
+CID_481_Athena_Commando_F_Geode, 1200
+CID_321_Athena_Commando_M_MilitaryFashion1, 800
